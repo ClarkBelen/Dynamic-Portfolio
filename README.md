@@ -12,7 +12,7 @@ Website Link: http://clarkbelen-portfolio.great-site.net/
 ##
 <p align="center">PORTFOLIO MANAGER</p>
 
-![image](https://github.com/user-attachments/assets/0c8d0c14-96a0-4abf-8ef8-8b0cc392e464)
+![image](https://github.com/user-attachments/assets/7a49e52b-8c60-4414-b124-881fd1824061)
 
 #
 Feel free to contact me for the admin-side of this website
